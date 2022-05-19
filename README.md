@@ -7,9 +7,9 @@ To run this game on your system follow steps given below.
 3. Select the directory Hangman and opent terminal in it.
 4. Run the follow command for terminal version.
 ```shell
-python Hangman Game Console.py
+python Hangman_Console.py
 ```
 5. Run the follow command for GUI version.
 ```shell
-python Hangman Game GUI.py
+python Hangman_GUI.py
 ```
