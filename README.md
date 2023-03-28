@@ -2,6 +2,7 @@
 
 A Hangman game made with simple  python using Tkinter library.
 To run this game on your system follow steps given below.
+Open Tutorial :  https://pythonscholar.com/python-projects/hangman-game-in-python/
 1. Clone this repository
 2. Make sure you have python 3 and Tkinter installed in your system
 3. Select the directory Hangman and open terminal in it.
